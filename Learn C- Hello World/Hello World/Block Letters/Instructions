@@ -1,0 +1,17 @@
+Write a C++ program called initials.cpp that displays the initials of your name in block letters as shown:
+
+Block Letters
+
+Happy coding!
+
+My initials are S and L, so my initials.cpp program should output:
+
+ SSS   L
+S   S  L
+S      L
+ SSS   L
+    S  L
+S   S  L
+ SSS   LLLLL
+
+What are your initials?
