@@ -1,0 +1,22 @@
+In between the curly braces is what we are going to focus on for now.
+
+std::cout << "Hello World!\n";
+
+    std::cout        is the "character output stream". It is pronounced "see-out".
+    
+    <<               is an operator that comes right after it.
+    
+    "Hello World!\n" is what's being outputted here. You need double quotes around text. 
+                        The \n is a special character that indicates a new line.
+                        
+    ;                is a command that tells the computer that you are at the end of a statement.
+
+Instructions:
+
+Let's write the whole std::cout statement from scratch!
+
+On line 6, type the following and press Run:
+
+std::cout << "Codecademy\n";
+
+What do you think this program will output?
