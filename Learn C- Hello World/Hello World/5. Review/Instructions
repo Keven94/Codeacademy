@@ -1,0 +1,22 @@
+Woohoo! You have written your first C++ programs! [Congrats!]
+
+In this lesson, you have learned:
+
+    C++ is a general purpose coding language.
+    C++ runs line by line, from top to bottom.
+    std::cout is how you output to the terminal:
+
+std::cout << "Good luck!\n";
+
+Download the C++ Reference Guide: Hello World (Coming Soon!) to help you remember the content covered in this lesson.
+Instructions
+1.
+
+Before we move on, let's write a letter to your future self.
+
+In letter.cpp, let's add the following:
+
+    Goal(s) for yourself.
+    Today's date.
+
+And click Run to mail the letter! [Hello World]
