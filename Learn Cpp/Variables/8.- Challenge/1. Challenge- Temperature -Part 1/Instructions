@@ -1,0 +1,34 @@
+Now that we've learned about the basics of variables and cin, let's write a program!
+
+The mad scientist Kelvin has mastered predicting the weather in his mountain-side meteorology lab.
+
+Recently, Kelvin began publishing his weather forecasts on his website, however, there's a problem: 
+  All of his forecasts describe the temperature in Fahrenheit degrees.
+
+Let's convert a temperature from Fahrenheit (F) to Celsius (C).
+
+The formula is the following:
+
+C=(F−32)/1.8C = (F - 32) / 1.8C=(F−32)/1.8
+
+1.
+
+First, google the current temperature of New York in Fahrenheit.
+
+Save that value in a double variable called tempf.
+
+Also declare another double variable called tempc.
+2.
+
+Calculate the result in Celsius.
+3.
+
+Display the result.
+
+Output exactly this:
+
+The temp is [tempc] degrees Celsius.
+
+4.
+
+Compile and execute the program.
