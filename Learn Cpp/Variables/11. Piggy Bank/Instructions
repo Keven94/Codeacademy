@@ -1,0 +1,67 @@
+You just returned from a trip in Central America. 
+The countries you visited were Mexico, Guatemala, and El Salvador. Y
+ou arrived back in your country with some foreign currencies from these three countries.
+
+[Piggy Bank]
+
+Write a C++ program called currency.cpp that prompts the user for the amount of each foreign currency. 
+Your prompts should look like:
+
+Enter number of Mexican Pesos:
+Enter number of Guatemalan Quetzals:
+Enter number of Salvadoran Colóns:
+
+Your program should then convert the amount entered by the user and display the total amount of USD. 
+Your final output should look like:
+
+US Dollars = $______
+
+Mark the tasks as complete by checking them off
+Creating Variables:
+1.
+
+First things first, let's declare 3 variables:
+
+    p for peso
+    q for quetzals
+    c for colóns
+
+2.
+
+We'll need another variable to store the amount you have in dollars.
+
+Let's declare a variable called dollars.
+3.
+
+Compile and execute the code to make sure it's bug-free before moving on!
+Asking the questions and taking inputs:
+4.
+
+We want to ask the user three different questions:
+
+Enter number of Mexican Pesos:
+
+5.
+
+We then want the user to type in how much they have and store it in p.
+6.
+
+Do this for the other two currencies.
+Coverting to USD:
+7.
+
+Google the conversion rates:
+
+    from pesos to USD
+    from quetzals to USD
+    from colóns to USD
+
+And write them down in your code using a comment
+8.
+
+Write an equation that solves for the total USD.
+9.
+
+Display the total amount of USD. Your final output should look like:
+
+US Dollars = $______
