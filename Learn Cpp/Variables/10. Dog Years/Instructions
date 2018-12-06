@@ -1,0 +1,69 @@
+    "How old is your fuzzy friend in human years?"
+
+Dogs mature at a faster rate than human beings. 
+If you own a dog, you might've heard this rule: 
+  one year for Snoopy equals seven years for you. 
+  Turns out, the math isn't that simple. Dogs mature more quickly than we do early on.
+
+Here's how we can convert your dog's age into human years:
+
+    The first two years of a dog's life count as 21 human years.
+    Each following year counts as 4 human years.
+
+Woof
+
+So a one-year-old dog is 10.5 years old in human years, and a two-year-old dog is 21 years old in human years... 
+hmm this is about to get more complicated. Before you start doing the math in your head, let a computer take care of it!
+
+With your knowledge of variables and arithmetic operators, 
+let's write a C++ program to calculate the age, in human years, of any dog older than 3.
+Mark the tasks as complete by checking them off
+Creating the variables that we need:
+1.
+
+Create an int variable named dog_age, and set it equal to your dog's age as a number.
+
+Write a comment that explains this line of code.
+
+Note: This version of the program is for dogs older than 2 years old.
+2.
+
+Let's declare three more int variables that we will use later:
+
+    early_years: for your dog's first two years
+    later_years: for your dog's following years
+    human_years: for your dog's total human years
+
+Solving for the human years:
+3.
+
+"The first two years of a dog's life count as 21 human years."
+
+Let's give the variable early_years a value of 21.
+
+Write a comment that explains this line of code.
+4.
+
+"Each following year counts as 4 human years."
+
+So the equation looks something like:
+
+later_years=(dog_age−2)∗4later\_years = (dog\_age - 2) * 4later_years=(dog_age−2)∗4
+
+Give the variable later_years a value of dog_age minus 2, and then multiply by 4.
+
+Write a comment that explains this line of code.
+5.
+
+Add early_years and later_years together, and store that in a variable named human_years.
+
+Write a comment that explains this line of code.
+6.
+
+Write a cout statement that displays your dog's name and age in human years.
+
+Use chaining to display the value in the following sentence:
+
+My name is [NAME]! Ruff ruff, I am [AGE] years old in human years.
+
+Replace [NAME] with your dog's name and [AGE] with the value of human_years in the sentence above.
