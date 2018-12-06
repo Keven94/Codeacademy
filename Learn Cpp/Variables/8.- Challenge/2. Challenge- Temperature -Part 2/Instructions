@@ -1,0 +1,15 @@
+Let's go back to the temperature.cpp that we wrote. 
+This time, instead of giving tempf a value of the current temperature in New York:
+
+tempf = 83;
+
+Let's ask the user what the temperature is using cin!
+Instructions
+1.
+
+Tell the user "Enter the temperature in Fahrenheit: " using cout.
+
+And get their input using cin and store it in tempf.
+2.
+
+Compile and execute your program.
